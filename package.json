@@ -3,13 +3,39 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^11.2.7",
-    "@testing-library/user-event": "^12.8.3",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2"
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "all": "0.0.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.2",
+    "express": "^4.17.1",
+    "i": "^0.3.6",
+    "jquery": "^3.6.0",
+    "load-script": "^1.0.0",
+    "mdbreact": "^5.0.2",
+    "moment": "^2.23.0",
+    "npm": "^7.18.1",
+    "package.json": "^2.0.1",
+    "path": "^0.12.7",
+    "quickstart": "^1.2.2",
+    "react": "^17.0.1",
+    "react-bootstrap": "^2.0.0-beta.4",
+    "react-color": "^2.19.3",
+    "react-dom": "^17.0.1",
+    "react-elastic-carousel": "^0.11.5",
+    "react-icons": "^4.2.0",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "react-webcam": "^5.2.3",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.3.0",
+    "save": "^2.4.0",
+    "serve": "^11.3.2",
+    "styled-components": "^5.2.1",
+    "sweetalert": "^2.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,5 +60,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-nullish-coalescing-operator": "^7.13.8",
+    "@babel/plugin-syntax-class-properties": "^7.12.13",
+    "@babel/preset-react": "^7.13.13"
   }
 }
